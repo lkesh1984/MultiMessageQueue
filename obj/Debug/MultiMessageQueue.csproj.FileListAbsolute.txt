@@ -1,0 +1,5 @@
+E:\Test Project\ConsoleTest\MultiMessageQueue\bin\Debug\MultiMessageQueue.exe.config
+E:\Test Project\ConsoleTest\MultiMessageQueue\bin\Debug\MultiMessageQueue.exe
+E:\Test Project\ConsoleTest\MultiMessageQueue\bin\Debug\MultiMessageQueue.pdb
+E:\Test Project\ConsoleTest\MultiMessageQueue\obj\Debug\MultiMessageQueue.exe
+E:\Test Project\ConsoleTest\MultiMessageQueue\obj\Debug\MultiMessageQueue.pdb
